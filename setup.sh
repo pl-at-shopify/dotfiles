@@ -12,5 +12,5 @@ if [ $SPIN ]; then
     git config --global alias.hr "!git reset --hard && git clean -f -d"
 
     # Link dotfiles
-    ln -sf ~/dotfiles/zshrc ~/.zshrc
+    # ln -sf ~/dotfiles/zshrc ~/.zshrc
 fi
