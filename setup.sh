@@ -2,7 +2,7 @@
 
 if [ $SPIN ]; then
     # Install packages
-    sudo apt install -y nano mc
+    # sudo apt install -y nano mc
 
     # Add git aliases
     git config --global alias.co checkout
